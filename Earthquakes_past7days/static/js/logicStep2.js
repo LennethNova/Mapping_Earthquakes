@@ -56,6 +56,9 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
 
 }
 
+// This is to confirm
+
+
 // Creating a GeoJSON layer with the retrieved data.
 L.geoJson(data, {
 
